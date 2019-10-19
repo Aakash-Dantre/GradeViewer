@@ -23,4 +23,5 @@ uses selenium, chromedriver to scrape moodle.
 - `pip3 install selenuim`
 - `pip3 install inquirer`
 - `pip3 install texttable`
+- find email and passkey and replace it with your students/research email id and password.
 - run grades.py
